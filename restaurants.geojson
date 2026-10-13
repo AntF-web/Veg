@@ -1,0 +1,2570 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2026-10-13T18:35:31Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/450236357",
+        "addr:city": "Gent",
+        "addr:housenumber": "2",
+        "addr:postcode": "9000",
+        "addr:street": "Drongensesteenweg",
+        "amenity": "restaurant",
+        "building": "house",
+        "cuisine": "asian",
+        "diet:vegetarian": "only",
+        "email": "info@yusu.be",
+        "name": "Yusu",
+        "opening_hours": "Mo-Tu 11:00-21:30; Fr-Su 11:00-21:30",
+        "phone": "+32 491 14 83 69",
+        "source:geometry": "GRB",
+        "source:geometry:date": "2009-02-20",
+        "source:geometry:ref": "Gbg/1375313",
+        "website": "https://www.yusu.be",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.7016463,
+          51.0578282
+        ]
+      },
+      "id": "way/450236357"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/565498125",
+        "addr:city": "Leuven",
+        "addr:housenumber": "55",
+        "addr:postcode": "3000",
+        "addr:street": "Vlamingenstraat",
+        "amenity": "restaurant",
+        "building": "house",
+        "building:levels": "4",
+        "check_date:opening_hours": "2024-06-17",
+        "diet:vegetarian": "only",
+        "name": "Lukemieke",
+        "opening_hours": "Mo-Fr 12:00-14:00,18:00-20:30",
+        "phone": "+32 16 22 97 05",
+        "reusable_packaging:accept": "only",
+        "reusable_packaging:offer": "only",
+        "roof:orientation": "across",
+        "roof:shape": "gabled",
+        "source:geometry:date": "2016-04-15",
+        "source:geometry:ref": "Gbg/2871474",
+        "website": "https://www.lukemieke.be/",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7030599,
+          50.8747871
+        ]
+      },
+      "id": "way/565498125"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/587055303",
+        "addr:city": "Namur",
+        "addr:housenumber": "11;13",
+        "addr:postcode": "5000",
+        "addr:street": "Rue de la Croix",
+        "amenity": "restaurant",
+        "building": "retail",
+        "building:levels": "3",
+        "check_date:opening_hours": "2025-08-31",
+        "contact:facebook": "https://www.facebook.com/p/East-Side-Story-100089452242241/",
+        "contact:instagram": "https://www.instagram.com/east_side_story_namur/",
+        "cuisine": "syrian",
+        "diet:vegetarian": "only",
+        "email": "eastsidestory18@gmail.com",
+        "name": "East Side Story",
+        "opening_hours": "Mo,Su 11:30-16:00; Tu-Th 11:30-15:30, Th 17:30-21:30; Fr-Sa 11:30-21:30",
+        "opening_hours:url": "https://eastsidestory.be/Coordonnees",
+        "phone": "+32 465 10 77 93",
+        "roof:levels": "1",
+        "source:geometry:date": "2016-06-30",
+        "source:geometry:ref": "Picc/1859748",
+        "source:opening_hours": "website",
+        "website": "https://eastsidestory.be",
+        "website:menu": "https://eastsidestory.be/Lacarte",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8648998,
+          50.4635893
+        ]
+      },
+      "id": "way/587055303"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/655465177",
+        "addr:housenumber": "5",
+        "addr:street": "Rijselstraat",
+        "amenity": "restaurant",
+        "building": "house",
+        "diet:vegetarian": "only",
+        "name": "De Kleine Prins",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.1239537,
+          50.9408401
+        ]
+      },
+      "id": "way/655465177"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1651810939",
+        "addr:city": "Gent",
+        "addr:housenumber": "9",
+        "addr:postcode": "9000",
+        "addr:street": "Koning Boudewijnstraat",
+        "amenity": "fast_food",
+        "changing_table": "no",
+        "cuisine": "kumpir",
+        "delivery": "yes",
+        "diet:vegan": "yes",
+        "diet:vegetarian": "only",
+        "email": "utal.ramazan@gmail.com",
+        "entrance:kerb:height": "0.11",
+        "entrance:ramp": "no",
+        "entrance:step_count": "1",
+        "entrance:width": "0.72",
+        "name": "Boempatat",
+        "opening_hours": "12:00-22:00",
+        "payment:cards": "no",
+        "payment:cash": "no",
+        "payment:qr_code": "no",
+        "takeaway": "yes",
+        "website": "https://boempatatgent.digitaste.be",
+        "wheelchair": "no",
+        "wheelchair:description": "Inkomdeur niet breed genoeg.",
+        "wheelchair:turning_circle": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.7094344,
+          51.0375934
+        ]
+      },
+      "id": "node/1651810939"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2065691962",
+        "addr:city": "Kortrijk",
+        "addr:housenumber": "12",
+        "addr:postcode": "8500",
+        "addr:street": "Budastraat",
+        "alt_name": "de dingen",
+        "amenity": "cafe",
+        "changing_table": "yes",
+        "diet:vegetarian": "only",
+        "entrance:kerb:height": "0.02",
+        "entrance:ramp": "no",
+        "entrance:step_count": "1",
+        "entrance:width": "1.2",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "deDingen",
+        "outdoor_seating": "yes",
+        "toilets:wheelchair": "no",
+        "website": "https://dedingen.be/",
+        "wheelchair:turning_circle": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.2640482,
+          50.8301465
+        ]
+      },
+      "id": "node/2065691962"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2459867484",
+        "amenity": "restaurant",
+        "check_date:opening_hours": "2023-12-21",
+        "contact:email": "info@humushortense.be",
+        "contact:mobile": "+32 474 65 37 06",
+        "contact:website": "https://humushortense.be/",
+        "diet:vegan": "only",
+        "diet:vegetarian": "only",
+        "indoor_seating": "yes",
+        "name": "Humus x Hortense",
+        "opening_hours": "Mo,Tu off; We 18:00-23:00; Th-Sa 12:00-14:30,18:00-23:00; Su off",
+        "opening_hours:signed": "no",
+        "outdoor_seating": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3703813,
+          50.829489
+        ]
+      },
+      "id": "node/2459867484"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2634809499",
+        "addr:housenumber": "47",
+        "addr:street": "Citadellaan",
+        "amenity": "restaurant",
+        "diet:vegetarian": "only",
+        "entrance:kerb:height": "0",
+        "entrance:step_count": "2",
+        "entrance:width": "1",
+        "internet_access": "wlan",
+        "internet_access:ssid": "BBOX2-2a1c",
+        "name": "De Appelier",
+        "opening_hours": "Mo-Fr 11:30-14:00; PH off",
+        "phone": "+32 9 221 67 33",
+        "toilets:wheelchair": "no",
+        "website": "http://www.deappelier.be/",
+        "wheelchair": "no",
+        "wheelchair:turning_circle": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.7281423,
+          51.0386683
+        ]
+      },
+      "id": "node/2634809499"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2659564164",
+        "amenity": "restaurant",
+        "contact:email": "thejudgyvegan@gmail.com",
+        "contact:facebook": "TheJudgyVeganCafe",
+        "contact:instagram": "thejudgyvegan",
+        "contact:phone": "+32 2 540 80 38",
+        "contact:website": "https://www.thejudgyvegan.com/",
+        "cuisine": "cake",
+        "diet:vegan": "only",
+        "indoor_seating": "yes",
+        "name": "The Judgy Vegan",
+        "opening_hours": "Th-Fr 17:30-22:30; Sa-Su 10:30-21:30",
+        "outdoor_seating": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3482543,
+          50.8376914
+        ]
+      },
+      "id": "node/2659564164"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2721915415",
+        "amenity": "restaurant",
+        "cuisine": "bistro",
+        "delivery": "no",
+        "diet:vegan": "only",
+        "diet:vegetarian": "only",
+        "email": "welkom@lekkergec.be",
+        "entrance:kerb:height": "0.02",
+        "entrance:ramp": "yes",
+        "entrance:step_count": "2",
+        "entrance:width": "0.9",
+        "name": "Lekker GEC",
+        "opening_hours": "Tu-Sa 11:30-22:00; Su 11:30-16:00",
+        "organic": "only",
+        "payment:cards": "yes",
+        "payment:cash": "yes",
+        "payment:qr_code": "no",
+        "phone": "+32 9 242 87 50",
+        "reservation": "yes",
+        "service:electricity": "yes",
+        "takeaway": "no",
+        "website": "https://www.lekkergec.com/",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.7121358,
+          51.0370029
+        ]
+      },
+      "id": "node/2721915415"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3083236694",
+        "amenity": "restaurant",
+        "capacity": "55",
+        "change:XLT-ZINN": "yes",
+        "check_date:opening_hours": "2026-07-19",
+        "contact:email": "info@leauchaude.be",
+        "contact:facebook": "https://www.facebook.com/het.warm.water",
+        "contact:mobile": "+32 493 37 81 64",
+        "contact:website": "https://www.leauchaude.be/",
+        "cuisine": "regional",
+        "diet:vegan": "yes",
+        "diet:vegetarian": "only",
+        "name": "L'Eau Chaude - Het Warm Water",
+        "name:fr": "L'Eau Chaude",
+        "name:nl": "Het Warm Water",
+        "opening_hours": "Tu-Su 11:00-16:00",
+        "opening_hours:kitchen": "Tu-Su 12:00-15:00",
+        "organic": "only",
+        "outdoor_seating": "yes",
+        "smoking": "outside",
+        "takeaway": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3480667,
+          50.8367993
+        ]
+      },
+      "id": "node/3083236694"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3238529719",
+        "addr:city": "Leuven",
+        "addr:housenumber": "159",
+        "addr:postcode": "3000",
+        "addr:street": "Diestsestraat",
+        "amenity": "restaurant",
+        "changing_table": "no",
+        "check_date": "2026-08-21",
+        "check_date:opening_hours": "2026-08-21",
+        "contact:phone": "+32 465 97 89 64",
+        "cuisine": "mediterranean;middle_eastern",
+        "delivery": "yes",
+        "diet:vegan": "only",
+        "diet:vegetarian": "only",
+        "entrance:kerb:height": "0.2",
+        "entrance:ramp": "no",
+        "entrance:step_count": "1",
+        "indoor_seating": "yes",
+        "level": "0",
+        "name": "Falafel TOP",
+        "opening_hours": "Mo-Fr 11:30-20:00; Sa 11:30-19:30",
+        "outdoor_seating": "street",
+        "ref:vatin": "BE1002388496",
+        "takeaway": "yes",
+        "toilets:access": "yes",
+        "toilets:wheelchair": "no",
+        "website": "https://www.falafel-top.be/",
+        "wheelchair:turning_circle": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7089916,
+          50.8813472
+        ]
+      },
+      "id": "node/3238529719"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3873671159",
+        "amenity": "restaurant",
+        "check_date": "2026-07-10",
+        "contact:facebook": "https://www.facebook.com/Chandigarh.Brussels/",
+        "contact:instagram": "https://www.instagram.com/chandigarh_brussels/",
+        "contact:phone": "+32 2 308 30 05",
+        "contact:website": "https://www.chandigarh.be/",
+        "cuisine": "indian",
+        "diet:vegan": "yes",
+        "diet:vegetarian": "only",
+        "facility:ayurveda": "yes",
+        "name": "Chandigarh",
+        "note": "they cook according to ayurvedic principles. If you find a better way to tag this, please modify",
+        "opening_hours": "Mo,Tu off; We-Fr 18:30-22:30; Sa 11:00-14:30,18:30-22:30; Su 11:00-15:00",
+        "outdoor_seating": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3653101,
+          50.8488511
+        ]
+      },
+      "id": "node/3873671159"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4052744492",
+        "addr:city": "Gent",
+        "addr:housenumber": "13",
+        "addr:postcode": "9000",
+        "addr:street": "Hoornstraat",
+        "amenity": "restaurant",
+        "changing_table": "no",
+        "check_date": "2023-01-02",
+        "diet:gluten_free": "yes",
+        "diet:vegan": "only",
+        "diet:vegetarian": "only",
+        "entrance:kerb:height": "0.54",
+        "entrance:ramp": "no",
+        "entrance:step_count": "4",
+        "entrance:width": "0.82",
+        "name": "Le Botaniste",
+        "opening_hours": "Mo-Su 11:30-21:30",
+        "toilets:wheelchair": "no",
+        "website": "https://lebotaniste.eu",
+        "wheelchair": "no",
+        "wheelchair:turning_circle": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.7211327,
+          51.0521451
+        ]
+      },
+      "id": "node/4052744492"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4256139406",
+        "addr:housenumber": "7",
+        "addr:street": "Jakobijnenstraat",
+        "amenity": "cafe",
+        "changing_table": "no",
+        "check_date": "2024-12-02",
+        "cuisine": "pastry",
+        "diet:vegan": "only",
+        "diet:vegetarian": "only",
+        "entrance:kerb:height": "0.22",
+        "entrance:ramp": "no",
+        "entrance:step_count": "2",
+        "entrance:width": "0.88",
+        "name": "WAY Plantbased Bakehouse",
+        "opening_hours": "Mo-Sa 08:00-18:00; Su 09:00-18:00",
+        "outdoor_seating": "yes",
+        "payment:cash": "no",
+        "toilets:wheelchair": "no",
+        "website": "https://www.way.gent/",
+        "wheelchair": "no",
+        "wheelchair:turning_circle": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.7198981,
+          51.0521347
+        ]
+      },
+      "id": "node/4256139406"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4266000491",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "diet:vegan": "only",
+        "name": "Spritz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.396414,
+          51.2191038
+        ]
+      },
+      "id": "node/4266000491"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4284192891",
+        "alt_name": "The Sisters café;The Sisters",
+        "amenity": "cafe",
+        "changing_table": "no",
+        "check_date": "2026-08-05",
+        "contact:email": "thesister.cafe@gmail.com",
+        "contact:phone": "+32 2 513 22 26",
+        "contact:website": "https://www.thesistercafe-brussels.com/",
+        "cuisine": "sandwich",
+        "diet:gluten_free": "only",
+        "diet:vegan": "only",
+        "diet:vegetarian": "only",
+        "entrance:kerb:height": "0.1",
+        "entrance:ramp": "no",
+        "entrance:step_count": "1",
+        "entrance:width": "0.8",
+        "indoor_seating": "yes",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "internet_access:ssid": "THE SISTER",
+        "name": "The Sister Brussels Café",
+        "opening_hours": "Mo-Fr 10:00-23:00; Sa 09:00-24:00; Su 09:00-23:00",
+        "organic": "only",
+        "outdoor_seating": "pedestrian_zone",
+        "service:electricity": "limited",
+        "toilets:access": "customers",
+        "toilets:wheelchair": "no",
+        "wheelchair": "limited",
+        "wheelchair:turning_circle": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.352745,
+          50.8472973
+        ]
+      },
+      "id": "node/4284192891"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4329815823",
+        "amenity": "restaurant",
+        "bar": "cocktail",
+        "contact:facebook": "https://www.facebook.com/funkyjunglemechelen",
+        "diet:vegan": "only",
+        "mapillary": "https://www.mapillary.com/app/user/filipc?lat=51.028732763363614&lng=4.4781500567631705&z=17&menu=false&pKey=sOfteM07PWNQC3i5S3ijsg&focus=photo",
+        "name": "Funky Jungle",
+        "takeaway": "yes",
+        "website": "https://www.funkyjungle.be/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4780723,
+          51.0285988
+        ]
+      },
+      "id": "node/4329815823"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4349764322",
+        "amenity": "fast_food",
+        "check_date": "2026-08-21",
+        "check_date:opening_hours": "2026-08-21",
+        "contact:email": "pepas@pepasfrituur.be",
+        "contact:facebook": "https://www.facebook.com/people/Pepas-Frituur-Leuven/61550290306165/",
+        "contact:instagram": "pepas_frituur",
+        "contact:tiktok": "pepas_frituur",
+        "contact:website": "https://www.pepasfrituur.be/",
+        "cuisine": "friture",
+        "delivery": "yes",
+        "diet:vegan": "only",
+        "dog": "yes",
+        "drive_in": "no",
+        "drive_through": "no",
+        "friture:oil": "vegetable",
+        "highchair": "no",
+        "indoor_seating": "yes",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "internet_access:ssid": "Pepas Guest",
+        "kids_area": "no",
+        "level": "0",
+        "lgbtq:signed": "no",
+        "name": "Pepas",
+        "opening_hours": "Mo-Tu 16:30-21:00; We, Fr-Sa 11:30-14:00, 16:30-22:00; Th 16:30-22:00",
+        "outdoor_seating": "no",
+        "reservation": "no",
+        "reusable_packaging:accept": "yes",
+        "service:electricity": "yes",
+        "takeaway": "yes",
+        "toilets": "separate",
+        "toilets:changing_table": "no",
+        "toilets:disposal": "flush",
+        "toilets:drinking_water": "yes",
+        "toilets:fee": "no",
+        "toilets:gender_segregated": "no",
+        "toilets:hands_drying": "paper_towel",
+        "toilets:handwashing": "yes",
+        "toilets:handwashing:soap": "yes",
+        "toilets:level": "0",
+        "toilets:menstrual_products": "no",
+        "toilets:paper_supplied": "yes",
+        "toilets:position": "seated",
+        "toilets:supervised": "no",
+        "toilets:unisex": "yes",
+        "toilets:wheelchair": "no",
+        "website:menu": "https://www.pepasfrituur.be/nl/menu",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7004298,
+          50.8771385
+        ]
+      },
+      "id": "node/4349764322"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4413284007",
+        "amenity": "fast_food",
+        "check_date": "2025-07-27",
+        "contact:email": "hello@kitsuneburgers.com",
+        "contact:mobile": "+32 472 48 07 93",
+        "contact:website": "https://www.kitsuneburgers.com/",
+        "cuisine": "burger",
+        "diet:vegan": "only",
+        "drive_through": "no",
+        "name": "Kitsune Burgers",
+        "opening_hours": "We-Fr 12:00-14:30,17:30-22:00; Sa-Su 12:00-22:00",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3537811,
+          50.847862
+        ]
+      },
+      "id": "node/4413284007"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4413967687",
+        "air_conditioning": "no",
+        "amenity": "restaurant",
+        "contact:facebook": "https://www.facebook.com/Yummy-bowl-497920727320236/",
+        "contact:mobile": "+32 495 35 69 05",
+        "cuisine": "salad",
+        "diet:vegan": "yes",
+        "diet:vegetarian": "only",
+        "indoor_seating": "yes",
+        "internet_access": "wlan",
+        "internet_access:free": "no",
+        "name": "Yummy bowl",
+        "opening_hours": "Mo-Fr 10:30-15:00; Sa-Su 10:30-17:00",
+        "outdoor_seating": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3533217,
+          50.8453475
+        ]
+      },
+      "id": "node/4413967687"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4418285581",
+        "amenity": "fast_food",
+        "check_date": "2025-04-15",
+        "cuisine": "friture",
+        "diet:vegan": "only",
+        "indoor_seating": "yes",
+        "level": "0",
+        "name": "Mr. Falafel",
+        "outdoor_seating": "no",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.346969,
+          50.844925
+        ]
+      },
+      "id": "node/4418285581"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4497099013",
+        "amenity": "restaurant",
+        "contact:mobile": "+32 456 22 13 91",
+        "diet:vegetarian": "only",
+        "name": "Frondes",
+        "opening_hours": "Tu-Fr 18:30-22:30"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3545414,
+          50.8479169
+        ]
+      },
+      "id": "node/4497099013"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4564340236",
+        "amenity": "restaurant",
+        "contact:email": "schuman@lebotaniste.eu",
+        "contact:facebook": "https://www.facebook.com/Le-Botaniste-Schuman-285120478973780/",
+        "contact:phone": "+32 2 646 44 47",
+        "contact:website": "https://www.lebotaniste.eu/",
+        "description": "Plant-based Organic Food & Wine Bar",
+        "diet:gluten_free": "only",
+        "diet:vegan": "only",
+        "diet:vegetarian": "only",
+        "level": "0",
+        "name": "Le Botaniste",
+        "opening_hours": "Mo-Fr 08:30-21:30; Sa-Su 11:30-21:30",
+        "organic": "only",
+        "takeaway": "yes",
+        "toilets": "yes",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3840114,
+          50.8443539
+        ]
+      },
+      "id": "node/4564340236"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4665152946",
+        "amenity": "restaurant",
+        "contact:instagram": "mauvaischoix_restaurant",
+        "contact:website": "https://mauvaischoix.be/",
+        "diet:vegetarian": "only",
+        "name": "Mauvais Choix"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3668765,
+          50.8219334
+        ]
+      },
+      "id": "node/4665152946"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4895361746",
+        "amenity": "restaurant",
+        "capacity": "14",
+        "changing_table": "no",
+        "contact:phone": "+32 2 522 09 68",
+        "contact:website": "https://mo-mo.eu/",
+        "cuisine": "tibetan",
+        "diet:vegan": "only",
+        "diet:vegetarian": "yes",
+        "indoor_seating": "yes",
+        "name": "Mo Mo",
+        "opening_hours": "Tu-Sa 12:00-14:30,18:00-22:00",
+        "outdoor_seating": "sidewalk",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3432367,
+          50.8250629
+        ]
+      },
+      "id": "node/4895361746"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4895367259",
+        "amenity": "restaurant",
+        "check_date": "2023-04-15",
+        "contact:mobile": "+32 476 40 89 85",
+        "diet:vegan": "yes",
+        "diet:vegetarian": "only",
+        "name": "Theatre Varia",
+        "opening_hours": "Mo off; Tu-Sa 18:00-23:00; Su off",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3787545,
+          50.8346937
+        ]
+      },
+      "id": "node/4895367259"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4895392733",
+        "alt_name": "les quatre jeudis",
+        "amenity": "restaurant",
+        "check_date:opening_hours": "2026-02-02",
+        "contact:phone": "+32 2 721 10 49",
+        "contact:website": "https://les4jeudis.be/en",
+        "diet:vegan": "only",
+        "diet:vegetarian": "only",
+        "name": "Les 4 Jeudis",
+        "opening_hours": "Mo-Fr 12:00-14:15; Sa-Su off"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3723718,
+          50.8472826
+        ]
+      },
+      "id": "node/4895392733"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4916749806",
+        "addr:housenumber": "5",
+        "addr:street": "Zuidstationstraat",
+        "amenity": "cafe",
+        "changing_table": "no",
+        "cuisine": "coffee;cake",
+        "description": "100% plant-based specialty coffee shop",
+        "diet:vegan": "only",
+        "diet:vegetarian": "yes",
+        "email": "fullcircleghent@gmail.com",
+        "handwashing:soap": "yes",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Full Circle Coffee",
+        "opening_hours": "Mo-Fr 08:00-18:00; Sa-Su 09:00-18:00",
+        "outdoor_seating": "yes",
+        "toilets": "yes",
+        "toilets:access": "customers",
+        "toilets:disposal": "flush",
+        "toilets:fee": "no",
+        "toilets:gender_segregated": "no",
+        "toilets:hands_drying": "towel",
+        "toilets:handwashing": "yes",
+        "toilets:menstrual_products": "no",
+        "toilets:paper_supplied": "yes",
+        "toilets:position": "seated",
+        "toilets:wheelchair": "no",
+        "website": "https://www.fullcircleghent.com/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.7332341,
+          51.0489637
+        ]
+      },
+      "id": "node/4916749806"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5134811756",
+        "amenity": "cafe",
+        "contact:facebook": "https://www.facebook.com/Lepoissonsansbicyclette/",
+        "diet:vegan": "only",
+        "name": "Le poisson sans bicyclette",
+        "opening_hours": "We-Th 15:00-21:00; Fr-Sa 15:00-22:00",
+        "outdoor_seating": "backyard"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3763224,
+          50.862937
+        ]
+      },
+      "id": "node/5134811756"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5247946071",
+        "addr:city": "Gent",
+        "addr:housenumber": "82",
+        "addr:postcode": "9000",
+        "addr:street": "Brabantdam",
+        "amenity": "fast_food",
+        "description": "healthy food",
+        "diet:gluten_free": "no",
+        "diet:lactose_free": "yes",
+        "diet:vegan": "yes",
+        "diet:vegetarian": "only",
+        "name": "O'yo",
+        "note": "Er zijn \"glutenvrije\" gerechten maar volgens de website kunnen die sporen van gluten bevatten, dus diet:gluten_free=no",
+        "opening_hours": "Mo-Fr 09:00-15:30; Sa,Su 09:00-17:00; We off",
+        "phone": "+32 468 12 14 26",
+        "takeaway": "yes",
+        "website": "https://www.oyobar.be/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.7309032,
+          51.049806
+        ]
+      },
+      "id": "node/5247946071"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5618349223",
+        "amenity": "cafe",
+        "contact:facebook": "ludokafe",
+        "contact:instagram": "ludo.kafe",
+        "cuisine": "coffee_shop",
+        "diet:vegan": "only",
+        "diet:vegetarian": "only",
+        "indoor_seating": "yes",
+        "lgbtq": "welcome",
+        "name": "Ludo",
+        "opening_hours": "Mo-Th 09:00-19:00; Fr 08:00-24:00; Sa 09:00-20:00; Su 09:00-19:00",
+        "outdoor_seating": "yes",
+        "survey:date": "2024-08-30",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.7245434,
+          51.0575703
+        ]
+      },
+      "id": "node/5618349223"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5713136703",
+        "addr:housenumber": "8",
+        "addr:postcode": "2018",
+        "addr:street": "Dageraadplaats",
+        "amenity": "restaurant",
+        "diet:vegan": "yes",
+        "diet:vegetarian": "only",
+        "name": "Overvloed",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4309017,
+          51.2072618
+        ]
+      },
+      "id": "node/5713136703"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5768702053",
+        "addr:city": "Leuven",
+        "addr:housenumber": "138",
+        "addr:postcode": "3000",
+        "addr:street": "Tiensestraat",
+        "amenity": "restaurant",
+        "changing_table": "yes",
+        "changing_table:count": "1",
+        "changing_table:location": "wheelchair_toilet",
+        "check_date": "2026-08-21",
+        "check_date:currency:XBT": "2025-07-15",
+        "check_date:opening_hours": "2026-08-21",
+        "contact:email": "info@hetstrand.xyz",
+        "contact:facebook": "hetstrandleuven",
+        "contact:instagram": "het.strand",
+        "currency:XBT": "yes",
+        "diet:vegan": "yes",
+        "diet:vegetarian": "only",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Het Strand",
+        "opening_hours": "Tu-Fr 11:30-00:00; Sa-Su 17:00-00:00",
+        "payment:lightning": "yes",
+        "payment:lightning_contactless": "no",
+        "payment:onchain": "yes",
+        "toilets:wheelchair": "designated",
+        "website": "https://hetstrand.xyz/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7083975,
+          50.8750795
+        ]
+      },
+      "id": "node/5768702053"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5986142786",
+        "amenity": "restaurant",
+        "check_date": "2023-11-15",
+        "delivery": "no",
+        "diet:vegan": "only",
+        "diet:vegetarian": "only",
+        "email": "hello@soul-kitchen.be",
+        "name": "Soul Kitchen",
+        "note": "sign \"Renaissance\" is also still present",
+        "opening_hours": "We-Sa 12:00-14:00, 18:00-21:00; Su 12:00-16:00",
+        "phone": "+32 469 16 28 20",
+        "reservation": "recommended",
+        "takeaway": "no",
+        "website": "https://www.soul-kitchen.be/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.7162697,
+          51.0431862
+        ]
+      },
+      "id": "node/5986142786"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6122246854",
+        "addr:housenumber": "2A",
+        "addr:street": "Hugo Verrieststraat",
+        "amenity": "fast_food",
+        "cuisine": "salad",
+        "diet:vegetarian": "only",
+        "email": "hallo@saladette.be",
+        "name": "Saladette",
+        "opening_hours": "Tu-Sa 11:30-16:30;PH off",
+        "organic": "only",
+        "phone": "+32 478 98 60 57",
+        "reservation": "yes",
+        "takeaway": "yes",
+        "website": "https://www.saladette.be/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.1254708,
+          50.9491248
+        ]
+      },
+      "id": "node/6122246854"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6952018150",
+        "amenity": "restaurant",
+        "cuisine": "falafel",
+        "diet:vegan": "yes",
+        "diet:vegetarian": "only",
+        "name": "Maha",
+        "panoramax": "e59c2a57-4413-4ed5-a39e-1fe706e920ce"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3469627,
+          50.8509561
+        ]
+      },
+      "id": "node/6952018150"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7195165369",
+        "amenity": "cafe",
+        "contact:mobile": "+32 492 54 00 62",
+        "contact:website": "https://www.thewildlab.be/",
+        "description": "Vegetarian café (brunch, smoothie, bowls, coffee)",
+        "diet:vegan": "yes",
+        "diet:vegetarian": "only",
+        "name": "The Wild Lab",
+        "opening_hours": "Tu-Fr 10:00-16:00; Sa,Su 09:30-16:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3480345,
+          50.8236649
+        ]
+      },
+      "id": "node/7195165369"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7235151164",
+        "addr:housenumber": "33",
+        "addr:street": "Dageraadplaats",
+        "amenity": "restaurant",
+        "check_date": "2024-02-17",
+        "cuisine": "middle_eastern",
+        "diet:vegetarian": "only",
+        "email": "hello@humm.love",
+        "name": "Humm",
+        "opening_hours": "Mo 17:00-23:00; Th-Su 09:00-23:00",
+        "phone": "+32 3 435 70 80"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4300935,
+          51.2066938
+        ]
+      },
+      "id": "node/7235151164"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7407113737",
+        "addr:housenumber": "2",
+        "addr:street": "Kerkstraat",
+        "air_conditioning": "yes",
+        "amenity": "restaurant",
+        "check_date:opening_hours": "2023-04-23",
+        "diet:kosher": "no",
+        "diet:vegan": "no",
+        "diet:vegetarian": "only",
+        "indoor_seating": "yes",
+        "name": "Bertem-Brug",
+        "opening_hours": "We-Sa 11:30-14:00,17:00-22:00; Su,PH 11:30-21:00",
+        "outdoor_seating": "no",
+        "smoking": "no",
+        "toilets": "yes",
+        "toilets:wheelchair": "no",
+        "website": "https://www.bertembrug.be/",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.6291219,
+          50.8626389
+        ]
+      },
+      "id": "node/7407113737"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7714677448",
+        "addr:housenumber": "20",
+        "addr:street": "Jozef Suvéestraat",
+        "amenity": "restaurant",
+        "description": "Wine, art & music; vegan finger food; concerts on Sunday evenings",
+        "diet:vegan": "only",
+        "diet:vegetarian": "only",
+        "email": "info@atelierflori.be",
+        "name": "Atelier Flori",
+        "opening_hours": "Th-Su 15:00-24:00",
+        "phone": "+32 472 82 40 30",
+        "reservation": "yes",
+        "website": "https://www.atelierflori.be/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.2294772,
+          51.2068765
+        ]
+      },
+      "id": "node/7714677448"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7976058340",
+        "air_conditioning": "yes",
+        "amenity": "cafe",
+        "bar": "no",
+        "contact:facebook": "buddybuddybio",
+        "contact:instagram": "buddybuddy",
+        "contact:website": "https://buddybuddy.co/pages/brussels",
+        "cuisine": "coffee_shop;organic",
+        "description": "Laptops are not allowed on week-ends and holidays.",
+        "diet:vegan": "only",
+        "drive_through": "no",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "internet_access:ssid": "BUDDY BUDDY",
+        "level": "0",
+        "name": "Buddy Buddy",
+        "opening_hours": "Mo-Fr 08:30-19:00; Sa-Su 09:00-19:00",
+        "outdoor_seating": "yes",
+        "payment:apple_pay": "yes",
+        "payment:cash": "no",
+        "payment:contactless": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "payment:mastercard": "yes",
+        "payment:visa": "yes",
+        "reservation": "no",
+        "smoking": "outside",
+        "takeaway": "yes",
+        "toilets": "yes",
+        "toilets:wheelchair": "no",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3586191,
+          50.8361514
+        ]
+      },
+      "id": "node/7976058340"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7984205984",
+        "air_conditioning": "no",
+        "amenity": "cafe",
+        "changing_table": "yes",
+        "check_date": "2025-06-24",
+        "contact:email": "luciferlivescoffee@gmail.com",
+        "contact:facebook": "luciferlivescoffee",
+        "contact:instagram": "luciferlivescoffee",
+        "cuisine": "coffee_shop",
+        "description": "100% plant based coffehouse.",
+        "diet:vegan": "only",
+        "indoor_seating": "yes",
+        "name": "Lucifer Lives",
+        "opening_hours": "Tu-Su 10:00-17:00",
+        "outdoor_seating": "parklet",
+        "pets_allowed": "yes",
+        "smoking": "outside",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3509229,
+          50.8395579
+        ]
+      },
+      "id": "node/7984205984"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8448813640",
+        "amenity": "fast_food",
+        "cuisine": "pizza",
+        "diet:vegetarian": "only",
+        "name": "Ornella"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.1207548,
+          50.7642398
+        ]
+      },
+      "id": "node/8448813640"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9081694920",
+        "amenity": "restaurant",
+        "contact:email": "ventrecontent@gmail.com",
+        "contact:phone": "+32456167871",
+        "cuisine": "regional",
+        "diet:vegan": "only",
+        "diet:vegetarian": "yes",
+        "indoor_seating": "yes",
+        "name": "Ventre content",
+        "opening_hours": "Th-Sa 18:30-22:00",
+        "outdoor_seating": "yes",
+        "website": "https://ventrecontent.be"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.5735113,
+          50.642823
+        ]
+      },
+      "id": "node/9081694920"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9083531017",
+        "amenity": "restaurant",
+        "cuisine": "chinese",
+        "diet:vegan": "yes",
+        "diet:vegetarian": "only",
+        "indoor_seating": "yes",
+        "name": "De Yuan",
+        "opening_hours": "Mo,We-Sa 12:00-15:00, We-Mo 18:00-23:00, Su 12:00-15:00",
+        "outdoor_seating": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.5798003,
+          50.6360707
+        ]
+      },
+      "id": "node/9083531017"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9140431817",
+        "addr:city": "Charleroi",
+        "addr:country": "BE",
+        "addr:housenumber": "78",
+        "addr:postcode": "6000",
+        "addr:street": "Rue de Dampremy",
+        "amenity": "restaurant",
+        "contact:facebook": "Venividigovegan",
+        "diet": "vegan:only",
+        "diet:vegan": "only",
+        "name": "Veni Vidi Vegan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4398084,
+          50.4091405
+        ]
+      },
+      "id": "node/9140431817"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9522033447",
+        "amenity": "fast_food",
+        "cuisine": "ice_cream;waffle",
+        "diet:vegan": "no",
+        "diet:vegetarian": "only",
+        "payment:cards": "yes",
+        "payment:cash": "yes",
+        "takeaway": "only",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.9123962,
+          51.2325667
+        ]
+      },
+      "id": "node/9522033447"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9586187866",
+        "addr:city": "Vilvoorde",
+        "addr:housenumber": "636",
+        "addr:postcode": "1800",
+        "addr:street": "Schaarbeeklei",
+        "amenity": "cafe",
+        "contact:facebook": "https://www.facebook.com/eatatcantine",
+        "contact:instagram": "@eatatcantine",
+        "contact:website": "https://www.eatatcantine.be/",
+        "cuisine": "coffee_shop",
+        "diet:vegetarian": "only",
+        "internet_access": "wlan",
+        "name": "cantine",
+        "opening_hours": "Mo-Fr 09:00-17:00",
+        "phone": "+32 2 269 93 11"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4155991,
+          50.9097564
+        ]
+      },
+      "id": "node/9586187866"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9665581800",
+        "addr:city": "Gent",
+        "addr:housenumber": "77",
+        "addr:postcode": "9000",
+        "addr:street": "Phoenixstraat",
+        "amenity": "restaurant",
+        "changing_table": "no",
+        "delivery": "no",
+        "diet:halal": "only",
+        "diet:vegan": "only",
+        "diet:vegetarian": "only",
+        "email": "hallo@karoot.gent",
+        "entrance:kerb:height": "0.05",
+        "entrance:ramp": "no",
+        "entrance:step_count": "1",
+        "entrance:width": "0.79",
+        "handwashing:soap": "yes",
+        "indoor_seating": "yes",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "internet_access:ssid": "IEDEREEN WELKOM",
+        "kids_area": "yes",
+        "kids_area:indoor": "yes",
+        "kids_area:outdoor": "no",
+        "name": "KAROOT",
+        "opening_hours": "Tu-We 17:00-22:00; Fr-Su 15:00-22:00; Th 17:00-22:00",
+        "operator:type": "cooperative",
+        "organic": "yes",
+        "outdoor_seating": "yes",
+        "panoramax": "680ab678-53d8-423b-a443-69319159b008",
+        "payment:cards": "yes",
+        "payment:cash": "yes",
+        "payment:qr_code": "no",
+        "phone": "+32 490 46 02 68",
+        "reservation": "yes",
+        "service:electricity": "yes",
+        "takeaway": "yes",
+        "toilets": "yes",
+        "toilets:access": "customers",
+        "toilets:disposal": "flush",
+        "toilets:fee": "no",
+        "toilets:gender_segregated": "no",
+        "toilets:hands_drying": "towel",
+        "toilets:handwashing": "yes",
+        "toilets:paper_supplied": "yes",
+        "toilets:position": "seated",
+        "toilets:wheelchair": "no",
+        "website": "https://karoot.gent",
+        "website:menu": "https://karoot.gent/honger-1",
+        "wheelchair": "yes",
+        "wheelchair:turning_circle": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.7053466,
+          51.058227
+        ]
+      },
+      "id": "node/9665581800"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9727612734",
+        "addr:housenumber": "1",
+        "addr:street": "Kerkstraat",
+        "amenity": "fast_food",
+        "check_date": "2025-11-16",
+        "check_date:diet:vegan": "2024-09-29",
+        "check_date:diet:vegetarian": "2024-09-29",
+        "check_date:opening_hours": "2025-11-16",
+        "cuisine": "friture",
+        "diet:vegan": "only",
+        "diet:vegetarian": "yes",
+        "drive_through": "no",
+        "name": "De Frietdroom",
+        "opening_hours": "Mo,Su 17:30-22:00; We,Th 11:30-13:30,17:30-22:00; Fr,Sa 11:30-13:30,17:30-22:30"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.5735956,
+          51.0566109
+        ]
+      },
+      "id": "node/9727612734"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9740821856",
+        "addr:postcode": "9000",
+        "amenity": "restaurant",
+        "check_date": "2023-11-15",
+        "cuisine": "pizza",
+        "diet:vegan": "only",
+        "diet:vegetarian": "only",
+        "entrance:kerb:height": "0.19",
+        "entrance:ramp": "no",
+        "entrance:step_count": "1",
+        "entrance:width": "0.96",
+        "name": "Plant A Pizza",
+        "opening_hours": "Mo 17:30-21:00; Tu off; We-Th,Su 17:30-21:30; Fr-Sa 17:30-22:00",
+        "phone": "+32 9 227 07 07",
+        "toilets:wheelchair": "no",
+        "website": "https://plantapizza.com",
+        "wheelchair": "no",
+        "wheelchair:turning_circle": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.7208713,
+          51.0582727
+        ]
+      },
+      "id": "node/9740821856"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9767006968",
+        "addr:city": "Merelbeke",
+        "addr:housenumber": "51",
+        "addr:postcode": "9820",
+        "addr:street": "Ringvaartstraat",
+        "amenity": "restaurant",
+        "contact:mobile": "+32 496 33 57 83",
+        "diet:vegan": "yes",
+        "diet:vegetarian": "only",
+        "email": "info@amaranth-plantbased.com",
+        "name": "Amaranth",
+        "opening_hours": "Th-Sa 19:00-00:00",
+        "website": "https://www.amaranth-plantbased.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.755099,
+          51.0086863
+        ]
+      },
+      "id": "node/9767006968"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9884355995",
+        "amenity": "fast_food",
+        "contact:email": "info@fluffyfalafel.be",
+        "contact:facebook": "https://www.facebook.com/people/Fluffy-Falafel/100063585700642/",
+        "contact:instagram": "fluffy.falafel",
+        "contact:mobile": "+32 465 83 45 51",
+        "contact:website": "https://www.fluffyfalafel.be/",
+        "diet:vegan": "only",
+        "name": "Fluffy Falafel",
+        "takeaway": "yes",
+        "takeaway:website": "https://www.fluffyfalafel-kortrijk.be/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.2748376,
+          50.8263139
+        ]
+      },
+      "id": "node/9884355995"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9966842857",
+        "addr:city": "Leuven",
+        "addr:housenumber": "20",
+        "addr:postcode": "3000",
+        "addr:street": "Parijsstraat",
+        "amenity": "restaurant",
+        "contact:email": "info@bodhiplantbased.be",
+        "contact:phone": "+32 16 41 39 90",
+        "contact:website": "https://www.bodhiplantbased.be",
+        "cuisine": "asian",
+        "diet:vegan": "only",
+        "diet:vegetarian": "only",
+        "name": "Bodhi",
+        "opening_hours": "Mo-Sa 12:00-14:30,17:30-21:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.6992345,
+          50.8788043
+        ]
+      },
+      "id": "node/9966842857"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10006272717",
+        "addr:city": "Leuven",
+        "addr:housenumber": "24",
+        "addr:postcode": "3000",
+        "addr:street": "Bogaardenstraat",
+        "amenity": "cafe",
+        "diet:vegan": "only",
+        "email": "do@sweeties.be",
+        "indoor_seating": "yes",
+        "level": "0",
+        "name": "Sweeties",
+        "opening_hours": "Mo-Th 11:00-20:00; Fr 11:00-23:00",
+        "outdoor_seating": "yes",
+        "ref:vatin": "BE1031324982",
+        "website": "https://www.sweeties.be/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7083641,
+          50.8786045
+        ]
+      },
+      "id": "node/10006272717"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10079840715",
+        "amenity": "cafe",
+        "check_date": "2025-04-27",
+        "contact:instagram": "https://www.instagram.com/taylorscafebrussels/",
+        "contact:website": "https://www.taylorscafebrussels.be",
+        "diet:vegan": "only",
+        "name": "Taylor's",
+        "opening_hours": "Mo,We,Th,Fr 09:00-16:00; Sa,Su 10:00-18:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3487929,
+          50.8370123
+        ]
+      },
+      "id": "node/10079840715"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10182206965",
+        "amenity": "restaurant",
+        "contact:phone": "+32 2 411 87 57",
+        "contact:website": "https://verdo.brussels/",
+        "description": "Plant-based house",
+        "diet:vegan": "only",
+        "name": "Verdō",
+        "opening_hours": "Mo-We 11:00-14:00; Th,Fr 11:00-14:00,19:00-23:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3673675,
+          50.8229302
+        ]
+      },
+      "id": "node/10182206965"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10295133531",
+        "amenity": "cafe",
+        "contact:facebook": "catberrypastries",
+        "contact:instagram": "catberry.pastries",
+        "contact:pinterest": "Catberrypastries",
+        "contact:website": "https://catberry.be/",
+        "diet:gluten_free": "yes",
+        "diet:vegan": "only",
+        "name": "Catberry",
+        "opening_hours": "We-Su 10:00-18:00",
+        "opening_hours:url": "https://catberry.be/",
+        "ref:vatin": "BE0768952157",
+        "reservation": "yes",
+        "shop": "pastry",
+        "source:opening_hours": "website",
+        "survey:date": "2024-08-30",
+        "takeaway": "yes",
+        "toilets": "yes",
+        "toilets:access": "customers",
+        "toilets:fee": "no",
+        "toilets:gender_segregated": "no",
+        "toilets:wheelchair": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.7338242,
+          51.0486434
+        ]
+      },
+      "id": "node/10295133531"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10542820009",
+        "amenity": "fast_food",
+        "changing_table": "no",
+        "contact:email": "info@lilbao.be",
+        "contact:facebook": "lilbao.be",
+        "contact:instagram": "lilbao.be",
+        "contact:phone": "+32 2 428 76 18",
+        "contact:website": "https://www.lilbao.be/",
+        "cuisine": "taiwanese",
+        "diet:gluten_free": "limited",
+        "diet:lactose_free": "yes",
+        "diet:vegan": "only",
+        "diet:vegetarian": "only",
+        "drive_through": "no",
+        "handwashing:soap": "yes",
+        "highchair": "4",
+        "indoor_seating": "yes",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "internet_access:ssid": "LILBAO-GUEST",
+        "kids_area": "no",
+        "name": "Lil Bao",
+        "opening_hours": "Mo-Su 12:00-15:00, 18:00-21:30",
+        "outdoor_seating": "no",
+        "reservation": "yes",
+        "service:electricity": "limited",
+        "takeaway": "yes",
+        "toilets": "yes",
+        "toilets:access": "customers",
+        "toilets:disposal": "flush",
+        "toilets:fee": "no",
+        "toilets:gender_segregated": "yes",
+        "toilets:hands_drying": "paper_towel",
+        "toilets:handwashing": "yes",
+        "toilets:level": "-1",
+        "toilets:menstrual_products": "no",
+        "toilets:panoramax": "c26d6960-3056-4260-a701-17d6e726d432;7711544b-b6d3-4363-ba0f-670ec09ad18c;b38ced49-8c93-42b1-b9f0-926e4d508b44;d408d24f-0dfc-4f4e-bf40-eb968b8a6c91",
+        "toilets:paper_supplied": "yes",
+        "toilets:position": "seated",
+        "toilets:wheelchair": "no",
+        "website:menu": "https://lilbao.be/menu/",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3521547,
+          50.8417377
+        ]
+      },
+      "id": "node/10542820009"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10618574136",
+        "amenity": "cafe",
+        "contact:facebook": "https://www.facebook.com/katogateaux",
+        "contact:instagram": "https://www.instagram.com/katogateaux/",
+        "contact:website": "https://katogateaux.be/",
+        "cuisine": "coffee_shop;dessert",
+        "diet:vegan": "only",
+        "name": "Kato Gateaux"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4768142,
+          51.0247669
+        ]
+      },
+      "id": "node/10618574136"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10848737060",
+        "amenity": "fast_food",
+        "check_date": "2026-02-21",
+        "check_date:opening_hours": "2026-02-21",
+        "cuisine": "burger",
+        "diet:vegan": "yes",
+        "diet:vegetarian": "only",
+        "name": "Fries and More Vegan",
+        "opening_hours:signed": "no",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3577708,
+          50.845089
+        ]
+      },
+      "id": "node/10848737060"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11050754993",
+        "amenity": "restaurant",
+        "diet:vegetarian": "only",
+        "name": "L'atelier des alchimistes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.8974021,
+          50.3591671
+        ]
+      },
+      "id": "node/11050754993"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11110239411",
+        "amenity": "fast_food",
+        "diet:vegan": "only",
+        "diet:vegetarian": "yes",
+        "name": "Pita Cleopatra",
+        "opening_hours": "Mo-Su,PH 17:00-01:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4444601,
+          51.1734865
+        ]
+      },
+      "id": "node/11110239411"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11384812269",
+        "all_you_can_eat": "yes",
+        "amenity": "fast_food",
+        "contact:phone": "+32 2 648 29 00",
+        "cuisine": "indian",
+        "diet:ayurvedic": "yes",
+        "diet:vegan": "yes",
+        "diet:vegetarian": "only",
+        "dinner:buffet": "yes",
+        "indoor_seating": "yes",
+        "lunch:buffet": "yes",
+        "name": "Pure Veg India",
+        "opening_hours": "Mo-Fr 11:00-21:00; Sa 12:00-21:00; Su 12:00-20:00",
+        "outdoor_seating": "pedestrian_zone",
+        "self_service": "only",
+        "takeaway": "yes",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3578586,
+          50.8450314
+        ]
+      },
+      "id": "node/11384812269"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11426088978",
+        "amenity": "restaurant",
+        "check_date:opening_hours": "2026-08-27",
+        "contact:facebook": "https://www.facebook.com/adiyamancigkoftegent/",
+        "cuisine": "turkish",
+        "delivery": "yes",
+        "diet:halal": "only",
+        "diet:lactose_free": "yes",
+        "diet:vegan": "only",
+        "diet:vegetarian": "only",
+        "name": "Meşhur Adıyaman Çiğ Köftecisi",
+        "opening_hours": "Mo 14:00-23:00; We-Su 14:00-23:00",
+        "panoramax": "23332faa-d8cc-4df4-8eb2-9f23e1908277",
+        "panoramax:0": "30bf553a-f3a6-4c3c-aa16-64faf7664ec2",
+        "payment:cards": "yes",
+        "payment:cash": "yes",
+        "payment:qr_code": "no",
+        "phone": "+32 489 61 89 06",
+        "service:electricity": "no",
+        "takeaway": "yes",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.7425685,
+          51.0557068
+        ]
+      },
+      "id": "node/11426088978"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11634940741",
+        "amenity": "restaurant",
+        "diet:vegan": "only",
+        "name": "Gigkoftem"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4260291,
+          51.1980598
+        ]
+      },
+      "id": "node/11634940741"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11649060382",
+        "amenity": "cafe",
+        "contact:facebook": "https://www.facebook.com/574866346279984",
+        "contact:instagram": "https://instagram.com/alchimiste.cafe",
+        "contact:phone": "+32 2 534 69 14",
+        "contact:website": "https://alchimistecafe.be/",
+        "cuisine": "coffee_shop;pancake;sandwich;cake",
+        "diet:dairy_free": "yes",
+        "diet:gluten_free": "yes",
+        "diet:vegan": "only",
+        "indoor_seating": "yes",
+        "internet_access": "wlan",
+        "internet_access:fee": "customers",
+        "name": "L’Alchimiste",
+        "opening_hours": "Mo-Fr 07:30-15:00; Sa-Su 10:00-15:00",
+        "outdoor_seating": "yes",
+        "smoking": "outside"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3433039,
+          50.8238317
+        ]
+      },
+      "id": "node/11649060382"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11677063112",
+        "amenity": "cafe",
+        "check_date": "2026-03-22",
+        "diet:vegan": "only",
+        "diet:vegetarian": "only",
+        "email": "cafe@momu.be",
+        "name": "MoMu Café",
+        "phone": "+32 3 470 27 94",
+        "website": "https://www.momu.be/en/cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.399718,
+          51.2172387
+        ]
+      },
+      "id": "node/11677063112"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11738859869",
+        "addr:housenumber": "10",
+        "addr:street": "Nieuwstad",
+        "amenity": "restaurant",
+        "contact:facebook": "https://www.facebook.com/profile.php?id=100063552190319",
+        "contact:instagram": "https://www.instagram.com/puravida_tacos/",
+        "cuisine": "mexican",
+        "delivery": "yes",
+        "diet:vegan": "only",
+        "diet:vegetarian": "only",
+        "email": "info@puravidatacos.com",
+        "indoor_seating": "yes",
+        "name": "Pura Vida Tacos",
+        "opening_hours": "Mo,Su 12:00-22:00; Tu,Th 17:00-22:00; Fr 12:00-23:00; Sa 12:00-24:00",
+        "outdoor_seating": "yes",
+        "payment:cards": "yes",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "payment:qr_code": "no",
+        "phone": "+32 3 866 53 98",
+        "reservation": "recommended",
+        "takeaway": "yes",
+        "website": "https://www.puravidatacos.com/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4098319,
+          51.2141163
+        ]
+      },
+      "id": "node/11738859869"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11912108464",
+        "access": "customers",
+        "addr:housenumber": "34",
+        "addr:street": "Minderbroedersrui",
+        "amenity": "restaurant",
+        "comment": "There is an extra entrance from Grote Goddaard, but after the entrance there are also stairs (15 cm high). Main entrance is not accessible.",
+        "diet:vegan": "only",
+        "diet:vegetarian": "only",
+        "email": "hola@hart-antwerpen.be",
+        "entrance:kerb:height": "0.46",
+        "entrance:step_count": "3",
+        "entrance:width": "0.9",
+        "name": "Hart",
+        "website": "https://www.hart-antwerpen.be/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4043721,
+          51.22229
+        ]
+      },
+      "id": "node/11912108464"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12050323825",
+        "amenity": "cafe",
+        "contact:instagram": "sabbar.be",
+        "contact:website": "https://sabbar.be/",
+        "diet:vegetarian": "only",
+        "name": "Sabbar",
+        "opening_hours": "Mo-Th 09:00-18:00; Fr,Sa 09:00-19:00",
+        "outdoor_seating": "yes",
+        "shop": "books",
+        "smoking": "outside",
+        "source": "https://growfunding.be/nl/projects/sabbar",
+        "start_date": "2026-06"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3398365,
+          50.8364593
+        ]
+      },
+      "id": "node/12050323825"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12208404072",
+        "amenity": "restaurant",
+        "diet:vegan": "only",
+        "diet:vegetarian": "only",
+        "email": "info@lokaal.gent",
+        "name": "Lokaal",
+        "opening_hours": "We 11:30-14:30; Th-Sa 11:30-14:30, 18:00-22:00",
+        "phone": "+32 477 19 95 44",
+        "website": "https://lokaal.gent/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.7316001,
+          51.0496947
+        ]
+      },
+      "id": "node/12208404072"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12354891130",
+        "amenity": "restaurant",
+        "contact:instagram": "https://www.instagram.com/veganchouke/",
+        "diet:vegan": "only",
+        "name": "Vegan Chouke",
+        "opening_hours": "Tu-Su 10:00-17:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3450201,
+          50.8523445
+        ]
+      },
+      "id": "node/12354891130"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12367017828",
+        "access": "yes",
+        "addr:housenumber": "6",
+        "addr:street": "Gebroeders Vandeveldestraat",
+        "amenity": "restaurant",
+        "created_by": "On Wheels: 3.0.3",
+        "diet:vegan": "only",
+        "email": "info@oh-ma.eu",
+        "entrance:kerb:height": "0.43",
+        "entrance:step_count": "3",
+        "entrance:width": "0.89",
+        "name": "Oh!Ma",
+        "phone": "+32 9 273 50 59",
+        "website": "https://www.oh-ma.eu/",
+        "website:menu": "https://www.oh-ma.eu/nl/menu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.7196429,
+          51.0508328
+        ]
+      },
+      "id": "node/12367017828"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12385440179",
+        "addr:housenumber": "8",
+        "addr:street": "Zuidstationstraat",
+        "amenity": "cafe",
+        "contact:email": "info@bobacatgent.com",
+        "contact:facebook": "bobacatgent",
+        "contact:instagram": "bobacatgent",
+        "contact:phone": "+32 471 02 28 91",
+        "contact:tiktok": "bobacatgent",
+        "contact:website": "https://www.bobacatgent.com/",
+        "cuisine": "bubble_tea;coffee_shop;smoothie",
+        "diet:halal": "yes",
+        "diet:kosher": "yes",
+        "diet:vegan": "yes",
+        "diet:vegetarian": "only",
+        "indoor_seating": "yes",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "internet_access:password": "bubblecat",
+        "internet_access:ssid": "Catwifi",
+        "level": "0",
+        "lgbtq": "welcome",
+        "name": "Boba Cat",
+        "opening_hours": "Tu-Fr 12:00-19:00; Sa 12:30-19:30",
+        "outdoor_seating": "no",
+        "payment:bancontact": "yes",
+        "payment:coins": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "payment:notes": "yes",
+        "payment:payconiq": "yes",
+        "ref:vatin": "BE0801587016",
+        "smoking": "no",
+        "start_date": "2023",
+        "takeaway": "yes",
+        "takeaway:website": "https://www.boba-cat.be/",
+        "toilets": "separate"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.7330217,
+          51.0491649
+        ]
+      },
+      "id": "node/12385440179"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12394664945",
+        "amenity": "fast_food",
+        "check_date:opening_hours": "2026-02-21",
+        "cuisine": "falafel",
+        "diet:vegan": "yes",
+        "diet:vegetarian": "only",
+        "name": "Mr. FALAFEL",
+        "opening_hours:signed": "no",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3579777,
+          50.8449654
+        ]
+      },
+      "id": "node/12394664945"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12607937315",
+        "amenity": "fast_food",
+        "contact:email": "favael@proximus.be",
+        "contact:facebook": "fava.brussels",
+        "contact:happycow": "https://www.happycow.net/reviews/fava-brussels-439000",
+        "contact:instagram": "fava.brussels",
+        "contact:mobile": "+32 470 56 03 01",
+        "cuisine": "middle_eastern;street_food",
+        "diet:vegan": "yes",
+        "diet:vegetarian": "only",
+        "name": "Fava",
+        "note:opening_hours": "Lunch only between 11:30 and 15:00.",
+        "opening_hours": "Mo-Fr 08:30-15:00",
+        "outdoor_seating": "yes",
+        "payment:credit_cards": "yes",
+        "ref:vatin": "BE1009583522",
+        "source:opening_hours": "https://www.instagram.com/fava.brussels/",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3486926,
+          50.8335535
+        ]
+      },
+      "id": "node/12607937315"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12659929329",
+        "amenity": "cafe",
+        "books": "feminist;queer",
+        "contact:email": "info@rokko.be",
+        "contact:facebook": "rokkogent",
+        "contact:instagram": "rokko_gent",
+        "contact:mobile": "+32 456 76 75 84",
+        "contact:website": "https://www.rokko.be/",
+        "cuisine": "coffee_shop",
+        "currency:EUR": "yes",
+        "description": "Feminist, queer, radical bookstore and coffee bar, trying to bring the margins to the centre",
+        "diet:vegan": "only",
+        "image": "https://cdn.webshopapp.com/shops/348486/themes/174583/v/1771876/assets/logo.png?20230407135656",
+        "level": "0",
+        "lgbtq": "welcome",
+        "milk:oat": "served",
+        "name": "Rokko",
+        "opening_hours": "Tu-Su 10:00-18:00",
+        "operator": "Rokko",
+        "operator:type": "cooperative",
+        "payment:bancontact": "yes",
+        "payment:cash": "yes",
+        "payment:maestro": "yes",
+        "payment:visa": "yes",
+        "ref:vatin": "BE1006942449",
+        "start_date": "2022",
+        "survey:date": "2024-10-27",
+        "toilets": "yes",
+        "toilets:wheelchair": "limited",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.729695,
+          51.0568991
+        ]
+      },
+      "id": "node/12659929329"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12751773646",
+        "amenity": "restaurant",
+        "contact:instagram": "https://www.instagram.com/terter_fabriek",
+        "contact:phone": "+32 2 538 61 64",
+        "contact:website": "https://terter.be/",
+        "diet:vegan": "only",
+        "diet:vegetarian": "only",
+        "indoor_seating": "yes",
+        "internet_access": "wlan",
+        "name": "TerTer",
+        "opening_hours": "Mo-Fr 10:30-16:00; Sa-Su 10:00-15:00",
+        "outdoor_seating": "sidewalk",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3476551,
+          50.825771
+        ]
+      },
+      "id": "node/12751773646"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12843842403",
+        "amenity": "cafe",
+        "changing_table": "yes",
+        "check_date": "2026-06-24",
+        "check_date:opening_hours": "2026-06-24",
+        "contact:phone": "+32 2 455 53 68",
+        "contact:website": "https://www.noje.be/",
+        "diet:gluten_free": "yes",
+        "diet:vegan": "only",
+        "diet:vegetarian": "yes",
+        "email": "info@noje.be",
+        "highchair": "yes",
+        "internet_access": "wlan",
+        "internet_access:fee": "customers",
+        "name": "Nöje",
+        "opening_hours": "We-Fr 08:30-17:00; Sa-Mo 10:00-17:00",
+        "outdoor_seating": "yes",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "reservation": "yes",
+        "toilets": "yes",
+        "website:menu": "https://www.noje.be/menus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3977509,
+          50.8456743
+        ]
+      },
+      "id": "node/12843842403"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12894188939",
+        "addr:city": "Leuven",
+        "addr:housenumber": "38",
+        "addr:postcode": "3000",
+        "addr:street": "Parijsstraat",
+        "amenity": "restaurant",
+        "bar": "no",
+        "cuisine": "indian",
+        "diet:vegetarian": "only",
+        "level": "0",
+        "name": "Food with Varinder",
+        "note": "Only walk-ins Sunday to Wednesday daytime. Please reserve for other days/times.",
+        "opening_hours": "Mo 09:00-21:00, Tu-We 08:00-22:00, Th-Sa 12:00-22:00, Su 11:00-20:00",
+        "outdoor_seating": "yes",
+        "phone": "+32456205000",
+        "reservation": "yes",
+        "source": "local knowledge",
+        "toilets": "yes",
+        "toilets:access": "customers",
+        "toilets:disposal": "flush",
+        "toilets:fee": "no",
+        "toilets:handwashing": "yes",
+        "toilets:position": "seated",
+        "toilets:wheelchair": "no",
+        "website": "https://foodwithvarinder.com/leuven/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.698835,
+          50.8782547
+        ]
+      },
+      "id": "node/12894188939"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13174921634",
+        "amenity": "restaurant",
+        "check_date": "2026-06-29",
+        "check_date:opening_hours": "2026-06-29",
+        "diet:vegan": "only",
+        "name": "Tabi Loo",
+        "opening_hours": "Mo-Sa 11:30-14:30,17:00-21:30"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3648369,
+          50.8354103
+        ]
+      },
+      "id": "node/13174921634"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13232915554",
+        "amenity": "fast_food",
+        "changing_table": "no",
+        "cuisine": "middle_eastern",
+        "diet:vegan": "yes",
+        "diet:vegetarian": "only",
+        "dog": "no",
+        "drive_through": "no",
+        "email": "osayd@ralphsfalafel.be",
+        "fixme": "Freeform tag `cuisine` used, to be doublechecked",
+        "handwashing:soap": "yes",
+        "highchair": "no",
+        "indoor_seating": "yes",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "kids_area": "no",
+        "name": "Ralph's Falafel",
+        "outdoor_seating": "yes",
+        "panoramax": "15c415ac-db91-40b5-b2d6-f9aab84992b4",
+        "payment:cards": "yes",
+        "payment:cash": "yes",
+        "payment:qr_code": "yes",
+        "phone": "+32 485 06 64 84",
+        "reservation": "yes",
+        "service:electricity": "limited",
+        "takeaway": "yes",
+        "toilets": "yes",
+        "toilets:access": "customers",
+        "toilets:disposal": "flush",
+        "toilets:fee": "no",
+        "toilets:gender_segregated": "no",
+        "toilets:handwashing": "yes",
+        "toilets:paper_supplied": "yes",
+        "toilets:position": "seated;urinal",
+        "toilets:wheelchair": "no",
+        "website": "http://www.ralphsfalafel.be/",
+        "website:menu": "http://www.ralphsfalafel.be/menu-in-engli",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4170341,
+          51.2269155
+        ]
+      },
+      "id": "node/13232915554"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13323699746",
+        "addr:housenumber": "1",
+        "addr:postcode": "9000",
+        "addr:street": "Dok-Noord",
+        "amenity": "restaurant",
+        "diet:vegan": "only",
+        "diet:vegetarian": "only",
+        "email": "hello@dirt.restaurant",
+        "name": "Dirt.restaurant",
+        "opening_hours": "We-Sa 18:00-23:00, Th-Fr 12:00-15:00",
+        "website": "https://dirt.restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.7342032,
+          51.0650191
+        ]
+      },
+      "id": "node/13323699746"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13625140324",
+        "amenity": "restaurant",
+        "diet:vegan": "yes",
+        "diet:vegetarian": "only",
+        "name": "Pazapa",
+        "opening_hours": "Su,Mo 10:00-15:00; We-Sa 10:00-18:00",
+        "website": "https://www.pazapa.be/",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9086699,
+          50.5913326
+        ]
+      },
+      "id": "node/13625140324"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/14106139070",
+        "amenity": "cafe",
+        "diet:vegan": "yes",
+        "diet:vegetarian": "only",
+        "indoor_seating": "yes",
+        "noname": "yes",
+        "opening_hours": "\"ouverture en parallèle du cinéma\"",
+        "outdoor_seating": "no",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "toilets:wheelchair": "no",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3560147,
+          50.8483446
+        ]
+      },
+      "id": "node/14106139070"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/14212290376",
+        "amenity": "restaurant",
+        "diet:vegan": "only",
+        "diet:vegetarian": "only",
+        "name": "Camion & Camionette",
+        "outdoor_seating": "yes",
+        "website": "https://www.camion-ette.be/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4254571,
+          51.2034787
+        ]
+      },
+      "id": "node/14212290376"
+    }
+  ]
+}
